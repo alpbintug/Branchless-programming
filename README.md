@@ -13,7 +13,7 @@ If your compiler is not smart enough to convert your branched code into branchle
 
 ## Prerequisites
 
-Codes are written in ***C*** and compiled with ***MinGW***, to not encounter problems, use this compiler of C to run the codes.
+Codes are written in ***C*** and compiled with ***MinGW*** on ***Windows 10***, to not encounter problems, use this compiler of C to run the codes.
 
 ## Installation and Running
 
