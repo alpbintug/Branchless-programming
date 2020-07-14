@@ -18,7 +18,7 @@ Codes are written in ***C*** and compiled with ***MinGW***, to not encounter pro
 ## Installation and Running
 
 - ***Clone*** the repository
-- ***Compile*** the codes with ***MinGW***
+- ***Compile*** the codes severally with ***MinGW***
 - ***Run*** the executable file
 
 ## Contributing
