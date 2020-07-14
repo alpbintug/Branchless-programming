@@ -31,7 +31,7 @@ Alp Bintuğ Uzun
 
 ## Contact
 - [@alpbintug](https://github.com/alpbintug) on GitHub
-- [Alp Bintug](www.linkedin.com/in/alpbintug) on LinkedIn
+- [Alp Bintug Uzun](www.linkedin.com/in/alpbintug) on LinkedIn
 - alp.bintug@gmail.com
 
 ## License
