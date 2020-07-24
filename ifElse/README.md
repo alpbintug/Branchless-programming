@@ -8,4 +8,4 @@
 - Mean execution time for branchless_ifElse is 4.015 seconds
 
 ## Note
-This piece of code do not represent Branchless Programming completely but writing if-else (or even if-else if-else) statements without actually writing them and using logical operations instead made a slight performance boost so I posted this method in this repository.
+This piece of code does not represent Branchless Programming completely, but writing if-else (or even if - else if - else) statements without actually writing them and using logical operations instead made a slight performance boost so I posted this method in this repository.
